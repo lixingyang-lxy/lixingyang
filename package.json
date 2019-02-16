@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/leesHome/lixingyang/issues"
   },
-  "homepage": "https://github.com/leesHome/lixingyang#readme"
+  "homepage": "https://github.com/leesHome/lixingyang#readme",
+  "devDependencies": {
+    "webpack": "^3.12.0"
+  }
 }

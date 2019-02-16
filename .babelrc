@@ -1,1 +1,4 @@
-.babelrc
+{
+    "plugins": [],  // 插件配置
+    "presets": []   // 预设配置
+}
