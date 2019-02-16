@@ -1,0 +1,22 @@
+{
+  "name": "lixingyang",
+  "version": "1.0.0",
+  "description": "simple sincerity 简单 真诚",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leesHome/lixingyang.git"
+  },
+  "keywords": [
+    "lixingyang"
+  ],
+  "author": "lixingyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leesHome/lixingyang/issues"
+  },
+  "homepage": "https://github.com/leesHome/lixingyang#readme"
+}
