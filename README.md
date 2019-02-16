@@ -1,2 +1,2 @@
 # lixingyang
-simple sincerity 
+simple sincerity 简单 真诚
